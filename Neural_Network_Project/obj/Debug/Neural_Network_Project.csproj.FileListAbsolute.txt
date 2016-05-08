@@ -1,0 +1,36 @@
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Neural_Network_Project.exe.config
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Neural_Network_Project.exe
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Neural_Network_Project.pdb
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2008.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.GPU.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.ML.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.OCR.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.Stitching.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.Util.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\bin\Debug\ZedGraph.dll
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.csprojResolveAssemblyReference.cache
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.Form1.resources
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.Properties.Resources.resources
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.csproj.GenerateResource.Cache
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.exe
+c:\users\muhammed ramadan\documents\visual studio 2012\Projects\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.pdb
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Neural_Network_Project.exe.config
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.exe
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.pdb
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Neural_Network_Project.exe
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Neural_Network_Project.pdb
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2008.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\Emgu.Util.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\bin\Debug\ZedGraph.dll
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.Form1.resources
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.Properties.Resources.resources
+C:\Users\Muhammed Ramadan\Desktop\Neural_Network_Project\Neural_Network_Project\obj\Debug\Neural_Network_Project.csproj.GenerateResource.Cache
