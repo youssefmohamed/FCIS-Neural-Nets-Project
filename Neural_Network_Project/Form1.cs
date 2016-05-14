@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Emgu.CV;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,11 +17,13 @@ namespace Neural_Network_Project
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-             ld = new Load_Data();
+            ld = new Load_Data();
+            
 
         }
 
